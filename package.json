@@ -2,10 +2,10 @@
   "name": "bookshelf-project-team-4",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://zemfira1.github.io/bookshelf-project-team-4",
+  "homepage": "https://GoitStudentsWorks.github.io/82_js_zemfira1",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /bookshelf-project-team-4/"
+    "build": "parcel build src/*.html --public-url /82_js_zemfira1/"
   },
   "repository": {
     "type": "git",
